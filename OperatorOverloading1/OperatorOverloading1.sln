@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.28010.2016
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "OperatorOverloading1", "OperatorOverloading1\OperatorOverloading1.vcxproj", "{AC165EF9-7E16-40F3-9B48-5FAF76E6336C}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|x64 = Debug|x64
+		Debug|x86 = Debug|x86
+		Release|x64 = Release|x64
+		Release|x86 = Release|x86
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{AC165EF9-7E16-40F3-9B48-5FAF76E6336C}.Debug|x64.ActiveCfg = Debug|x64
+		{AC165EF9-7E16-40F3-9B48-5FAF76E6336C}.Debug|x64.Build.0 = Debug|x64
+		{AC165EF9-7E16-40F3-9B48-5FAF76E6336C}.Debug|x86.ActiveCfg = Debug|Win32
+		{AC165EF9-7E16-40F3-9B48-5FAF76E6336C}.Debug|x86.Build.0 = Debug|Win32
+		{AC165EF9-7E16-40F3-9B48-5FAF76E6336C}.Release|x64.ActiveCfg = Release|x64
+		{AC165EF9-7E16-40F3-9B48-5FAF76E6336C}.Release|x64.Build.0 = Release|x64
+		{AC165EF9-7E16-40F3-9B48-5FAF76E6336C}.Release|x86.ActiveCfg = Release|Win32
+		{AC165EF9-7E16-40F3-9B48-5FAF76E6336C}.Release|x86.Build.0 = Release|Win32
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {D4EAE42B-4137-41FB-B855-34A93EA829D9}
+	EndGlobalSection
+EndGlobal
